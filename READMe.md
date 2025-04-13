@@ -81,6 +81,8 @@ src/services/RsvpService.test.ts
 
 
 6. Future Enhancements
+
+
 Integrate a database (e.g., SQLite, PostgreSQL, or MongoDB) to persist RSVP entries.
 
 Automatically generate player IDs instead of requiring them in the request.
